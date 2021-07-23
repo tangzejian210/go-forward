@@ -1,0 +1,3 @@
+Object.getOwnPropertyNames = function(o) {
+  
+}
